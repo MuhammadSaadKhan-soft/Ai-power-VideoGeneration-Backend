@@ -1,5 +1,5 @@
 import express from 'express';
-import generateRoutes from './routes/generate.js';
+import generateRoutes from './api/generate.js';
 import cors from 'cors';
 import dotenv from 'dotenv';
 
